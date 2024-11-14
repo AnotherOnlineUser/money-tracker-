@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Personal Finance Tracker (In Progress)
 
 This is a personal finance tracker web application that allows users to track their transactions and monitor their balance. The project is still in progress and aims to provide an easy way to add, view, and manage financial transactions in real-time.
